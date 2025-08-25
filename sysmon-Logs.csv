@@ -1,0 +1,3525 @@
+﻿수준,날짜 및 시간,원본,이벤트 ID,작업 범주
+정보,2025-06-23 오후 9:27:33,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:27:33.462
+ProcessGuid: {c00189fc-4571-6859-955a-000000006900}
+ProcessId: 395260
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:27:19,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:27:19.198
+ProcessGuid: {c00189fc-47d1-6859-bb5a-000000006900}
+ProcessId: 400560
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:27:14,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:27:14.706
+ProcessGuid: {c00189fc-464e-6859-a85a-000000006900}
+ProcessId: 398092
+Image: C:\Windows\System32\smartscreen.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:26:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:26:54.368
+ProcessGuid: {c00189fc-47ce-6859-ba5a-000000006900}
+ProcessId: 401388
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:25:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:25:49.263
+ProcessGuid: {c00189fc-4548-6859-925a-000000006900}
+ProcessId: 381236
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:24:57,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:24:57.556
+ProcessGuid: {c00189fc-42e9-6859-4a5a-000000006900}
+ProcessId: 383508
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+정보,2025-06-23 오후 9:24:26,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:24:26.447
+ProcessGuid: {c00189fc-46fc-6859-b15a-000000006900}
+ProcessId: 396332
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:24:20,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:24:20.657
+ProcessGuid: {c00189fc-4769-6859-b95a-000000006900}
+ProcessId: 401832
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\137.0.3296.93\identity_helper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:24:09,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:24:09.535
+ProcessGuid: {c00189fc-4769-6859-b85a-000000006900}
+ProcessId: 401816
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\137.0.3296.93\identity_helper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:23:35,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:23:35.194
+ProcessGuid: {c00189fc-473f-6859-b65a-000000006900}
+ProcessId: 395460
+Image: C:\Program Files\Microsoft OneDrive\25.095.0518.0002\FileCoAuth.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:23:20,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:23:20.271
+ProcessGuid: {c00189fc-460a-6859-a45a-000000006900}
+ProcessId: 393820
+Image: C:\Windows\System32\audiodg.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+정보,2025-06-23 오후 9:23:15,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:23:15.266
+ProcessGuid: {c00189fc-44db-6859-895a-000000006900}
+ProcessId: 387252
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:22:56,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:22:56.446
+ProcessGuid: {c00189fc-4295-6859-d559-000000006900}
+ProcessId: 377404
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:22:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:22:53.921
+ProcessGuid: {c00189fc-4608-6859-a25a-000000006900}
+ProcessId: 396680
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:22:27,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:22:27.002
+ProcessGuid: {c00189fc-46fd-6859-b45a-000000006900}
+ProcessId: 399900
+Image: C:\Windows\System32\WerFault.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:22:26,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:22:26.424
+ProcessGuid: {c00189fc-428c-6859-cb59-000000006900}
+ProcessId: 373128
+Image: C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:22:21,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:22:21.362
+ProcessGuid: {c00189fc-46fc-6859-b25a-000000006900}
+ProcessId: 398396
+Image: C:\Windows\System32\WerFault.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:22:19,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:22:19.200
+ProcessGuid: {c00189fc-46a5-6859-ad5a-000000006900}
+ProcessId: 399224
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:22:18,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:22:18.865
+ProcessGuid: {c00189fc-46ee-6859-ae5a-000000006900}
+ProcessId: 399744
+Image: C:\Windows\System32\svchost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:22:14,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:22:14.723
+ProcessGuid: {c00189fc-46f6-6859-b05a-000000006900}
+ProcessId: 399520
+Image: C:\Windows\System32\SnippingTool.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:22:14,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:22:14.317
+ProcessGuid: {c00189fc-46a2-6859-ac5a-000000006900}
+ProcessId: 398952
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:19:27,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:19:27.257
+ProcessGuid: {c00189fc-464e-6859-aa5a-000000006900}
+ProcessId: 398100
+Image: C:\Windows\System32\consent.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:19:26,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:19:26.738
+ProcessGuid: {c00189fc-464e-6859-a95a-000000006900}
+ProcessId: 398172
+Image: C:\Windows\System32\mmc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:19:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:19:03.631
+ProcessGuid: {c00189fc-4636-6859-a75a-000000006900}
+ProcessId: 397912
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:19:02,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 12:19:02.916
+ProcessGuid: {c00189fc-4636-6859-a75a-000000006900}
+ProcessId: 397912
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.19041.3996 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: ""C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe"" -EncodedCommand ZQBjAGgAbwAgACIASABhAGMAawBlAGQAIQAiAA==
+CurrentDirectory: C:\WINDOWS\system32\
+User: DESKTOP-GHQF7EL\wah43
+LogonGuid: {c00189fc-4281-6859-a1fe-f41500000000}
+LogonId: 0x15F4FEA1
+TerminalSessionId: 33
+IntegrityLevel: High
+Hashes: SHA256=9785001B0DCF755EDDB8AF294A373C0B87B2498660F724E76C4D53F9C217C7A3
+ParentProcessGuid: {c00189fc-460c-6859-a55a-000000006900}
+ParentProcessId: 397444
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+ParentUser: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:18:55,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:18:55.415
+ProcessGuid: {c00189fc-4605-6859-a15a-000000006900}
+ProcessId: 396564
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:18:20,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 12:18:20.269
+ProcessGuid: {c00189fc-460c-6859-a55a-000000006900}
+ProcessId: 397444
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.19041.3996 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+CurrentDirectory: C:\WINDOWS\system32\
+User: DESKTOP-GHQF7EL\wah43
+LogonGuid: {c00189fc-4281-6859-a1fe-f41500000000}
+LogonId: 0x15F4FEA1
+TerminalSessionId: 33
+IntegrityLevel: High
+Hashes: SHA256=9785001B0DCF755EDDB8AF294A373C0B87B2498660F724E76C4D53F9C217C7A3
+ParentProcessGuid: {c00189fc-4295-6859-d559-000000006900}
+ParentProcessId: 377404
+ParentImage: C:\Windows\System32\RuntimeBroker.exe
+ParentCommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+ParentUser: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:18:20,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:18:20.232
+ProcessGuid: {c00189fc-460a-6859-a35a-000000006900}
+ProcessId: 396364
+Image: C:\Windows\System32\consent.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:18:17,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:18:17.634
+ProcessGuid: {c00189fc-4604-6859-9e5a-000000006900}
+ProcessId: 395628
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:18:15,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:18:15.385
+ProcessGuid: {c00189fc-444c-6859-705a-000000006900}
+ProcessId: 389384
+Image: C:\Windows\System32\smartscreen.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:18:13,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:18:13.587
+ProcessGuid: {c00189fc-4604-6859-a05a-000000006900}
+ProcessId: 396464
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:17:44,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:17:44.037
+ProcessGuid: {c00189fc-45b2-6859-9c5a-000000006900}
+ProcessId: 313804
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:17:44,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:17:44.036
+ProcessGuid: {c00189fc-45b2-6859-9d5a-000000006900}
+ProcessId: 395652
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:17:19,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:17:19.002
+ProcessGuid: {c00189fc-445c-6859-815a-000000006900}
+ProcessId: 391556
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:16:55,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:16:55.480
+ProcessGuid: {c00189fc-45a0-6859-985a-000000006900}
+ProcessId: 394648
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+정보,2025-06-23 오후 9:16:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:16:54.468
+ProcessGuid: {c00189fc-4579-6859-975a-000000006900}
+ProcessId: 392856
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:16:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:16:53.917
+ProcessGuid: {c00189fc-4576-6859-965a-000000006900}
+ProcessId: 394364
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:16:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:16:53.903
+ProcessGuid: {c00189fc-44c5-6859-885a-000000006900}
+ProcessId: 377116
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:16:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:16:51.086
+ProcessGuid: {c00189fc-4457-6859-7b5a-000000006900}
+ProcessId: 390648
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:16:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:16:51.083
+ProcessGuid: {c00189fc-45b1-6859-9b5a-000000006900}
+ProcessId: 385516
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:16:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:16:51.079
+ProcessGuid: {c00189fc-4459-6859-805a-000000006900}
+ProcessId: 392340
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:16:37,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:16:37.879
+ProcessGuid: {c00189fc-45a0-6859-995a-000000006900}
+ProcessId: 394760
+Image: C:\Windows\System32\LocationNotificationWindows.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:16:35,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:16:35.260
+ProcessGuid: {c00189fc-4549-6859-935a-000000006900}
+ProcessId: 393276
+Image: C:\Windows\System32\wbem\WmiPrvSE.exe
+User: NT AUTHORITY\NETWORK SERVICE"
+정보,2025-06-23 오후 9:16:07,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:16:07.145
+ProcessGuid: {c00189fc-454a-6859-945a-000000006900}
+ProcessId: 393716
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:14:19,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:14:19.980
+ProcessGuid: {c00189fc-4511-6859-915a-000000006900}
+ProcessId: 388308
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\137.0.3296.93\identity_helper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:14:17,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:14:17.901
+ProcessGuid: {c00189fc-44fa-6859-8f5a-000000006900}
+ProcessId: 387704
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:14:09,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:14:09.560
+ProcessGuid: {c00189fc-4511-6859-905a-000000006900}
+ProcessId: 394428
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\137.0.3296.93\identity_helper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:13:45,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:13:45.074
+ProcessGuid: {c00189fc-44e0-6859-8d5a-000000006900}
+ProcessId: 312252
+Image: C:\Program Files\Microsoft Office\root\Office16\SDXHelper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:13:33,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:13:33.951
+ProcessGuid: {c00189fc-44e7-6859-8e5a-000000006900}
+ProcessId: 394508
+Image: C:\Program Files\Microsoft OneDrive\25.095.0518.0002\FileCoAuth.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:13:30,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:13:30.138
+ProcessGuid: {c00189fc-44dc-6859-8c5a-000000006900}
+ProcessId: 394244
+Image: C:\Program Files\Microsoft OneDrive\25.095.0518.0002\OneDriveLauncher.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:13:23,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:13:23.731
+ProcessGuid: {c00189fc-44dc-6859-8b5a-000000006900}
+ProcessId: 364824
+Image: C:\Program Files\Microsoft Office\root\Office16\SDXHelper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:13:18,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:13:18.408
+ProcessGuid: {c00189fc-44db-6859-8a5a-000000006900}
+ProcessId: 392132
+Image: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25050.5-0\MpCmdRun.exe
+User: NT AUTHORITY\NETWORK SERVICE"
+정보,2025-06-23 오후 9:13:15,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 12:13:15.538
+ProcessGuid: {c00189fc-44db-6859-8a5a-000000006900}
+ProcessId: 392132
+Image: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25050.5-0\MpCmdRun.exe
+FileVersion: 4.18.25050.5 (bcf51ab773be21957c5713cae9cb3adf2fd75bf5)
+Description: Microsoft Malware Protection Command Line Utility
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: MpCmdRun.exe
+CommandLine: ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25050.5-0\MpCmdRun.exe"" GetDeviceTicket -AccessKey 1D8D6829-51FD-BC41-0361-8E760680CAEF 
+CurrentDirectory: C:\WINDOWS\system32\
+User: NT AUTHORITY\NETWORK SERVICE
+LogonGuid: {c00189fc-cc33-684b-e403-000000000000}
+LogonId: 0x3E4
+TerminalSessionId: 0
+IntegrityLevel: System
+Hashes: SHA256=7EB7B7A20D7E74DEACB58E0A66F72AC477E41813CC4B20BCAF74BA53B09EFC89
+ParentProcessGuid: {c00189fc-fe46-6853-3830-000000006900}
+ParentProcessId: 3196
+ParentImage: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25050.5-0\MsMpEng.exe
+ParentCommandLine: ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25050.5-0\MsMpEng.exe""
+ParentUser: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:13:09,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:13:09.741
+ProcessGuid: {c00189fc-153d-6859-3a59-000000006900}
+ProcessId: 364604
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:12:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:12:54.657
+ProcessGuid: {c00189fc-44c5-6859-875a-000000006900}
+ProcessId: 393176
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:12:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:12:42.991
+ProcessGuid: {c00189fc-1614-6859-4e59-000000006900}
+ProcessId: 367260
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:12:37,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:12:37.446
+ProcessGuid: {c00189fc-4458-6859-7e5a-000000006900}
+ProcessId: 392440
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:12:27,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:12:27.820
+ProcessGuid: {c00189fc-4451-6859-7a5a-000000006900}
+ProcessId: 391776
+Image: C:\Windows\System32\wbem\WmiPrvSE.exe
+User: NT AUTHORITY\NETWORK SERVICE"
+정보,2025-06-23 오후 9:12:11,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:12:11.078
+ProcessGuid: {c00189fc-42b1-6859-185a-000000006900}
+ProcessId: 377108
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:11:41,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:41.977
+ProcessGuid: {c00189fc-4457-6859-7c5a-000000006900}
+ProcessId: 389836
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:11:41,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:41.346
+ProcessGuid: {c00189fc-4458-6859-7f5a-000000006900}
+ProcessId: 392236
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:11:27,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:27.556
+ProcessGuid: {c00189fc-4460-6859-835a-000000006900}
+ProcessId: 392456
+Image: C:\Program Files (x86)\Google\GoogleUpdater\138.0.7194.0\updater.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:11:27,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:27.539
+ProcessGuid: {c00189fc-4460-6859-825a-000000006900}
+ProcessId: 391184
+Image: C:\Program Files (x86)\Google\GoogleUpdater\138.0.7194.0\updater.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:11:24,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:24.847
+ProcessGuid: {c00189fc-446b-6859-865a-000000006900}
+ProcessId: 391208
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:11:24,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:24.148
+ProcessGuid: {c00189fc-446b-6859-855a-000000006900}
+ProcessId: 374092
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:11:24,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:24.137
+ProcessGuid: {c00189fc-446b-6859-845a-000000006900}
+ProcessId: 390208
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:11:22,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:22.761
+ProcessGuid: {c00189fc-160c-6859-4559-000000006900}
+ProcessId: 363568
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:11:14,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:14.336
+ProcessGuid: {c00189fc-1622-6859-8859-000000006900}
+ProcessId: 359332
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:11:06,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:06.530
+ProcessGuid: {c00189fc-444d-6859-785a-000000006900}
+ProcessId: 389396
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:11:06,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:06.529
+ProcessGuid: {c00189fc-4458-6859-7d5a-000000006900}
+ProcessId: 387920
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:11:06,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:11:06.467
+ProcessGuid: {c00189fc-444d-6859-775a-000000006900}
+ProcessId: 389304
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:59,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:59.434
+ProcessGuid: {c00189fc-4451-6859-795a-000000006900}
+ProcessId: 390548
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:54.481
+ProcessGuid: {c00189fc-444d-6859-755a-000000006900}
+ProcessId: 389300
+Image: C:\Program Files\Google\Chrome\Application\137.0.7151.120\elevation_service.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:10:48,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:48.950
+ProcessGuid: {c00189fc-4441-6859-6f5a-000000006900}
+ProcessId: 390376
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:47,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:47.643
+ProcessGuid: {c00189fc-4440-6859-6e5a-000000006900}
+ProcessId: 390260
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:46.399
+ProcessGuid: {c00189fc-443e-6859-6c5a-000000006900}
+ProcessId: 390408
+Image: C:\Program Files\Microsoft OneDrive\25.095.0518.0002\FileCoAuth.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:39.522
+ProcessGuid: {c00189fc-443f-6859-6d5a-000000006900}
+ProcessId: 390460
+Image: C:\Windows\System32\rundll32.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:08,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:08.598
+ProcessGuid: {c00189fc-42a8-6859-035a-000000006900}
+ProcessId: 380252
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:08,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:08.487
+ProcessGuid: {c00189fc-42a6-6859-025a-000000006900}
+ProcessId: 380292
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:08,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:08.311
+ProcessGuid: {c00189fc-42a9-6859-065a-000000006900}
+ProcessId: 379500
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:08,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:08.245
+ProcessGuid: {c00189fc-42a9-6859-085a-000000006900}
+ProcessId: 380516
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:08,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:08.198
+ProcessGuid: {c00189fc-42a9-6859-075a-000000006900}
+ProcessId: 380784
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:07,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:07.639
+ProcessGuid: {c00189fc-4416-6859-6b5a-000000006900}
+ProcessId: 390100
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:10:07,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:10:07.536
+ProcessGuid: {c00189fc-42f9-6859-4f5a-000000006900}
+ProcessId: 384856
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:09:58,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:09:58.898
+ProcessGuid: {c00189fc-4414-6859-6a5a-000000006900}
+ProcessId: 390824
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:09:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:09:42.090
+ProcessGuid: {c00189fc-42bf-6859-335a-000000006900}
+ProcessId: 382956
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:09:34,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:09:34.380
+ProcessGuid: {c00189fc-42c0-6859-355a-000000006900}
+ProcessId: 383976
+Image: C:\Windows\System32\audiodg.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+정보,2025-06-23 오후 9:09:10,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:09:10.321
+ProcessGuid: {c00189fc-43c7-6859-695a-000000006900}
+ProcessId: 389468
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:08:50,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:08:50.932
+ProcessGuid: {c00189fc-4299-6859-db59-000000006900}
+ProcessId: 376720
+Image: C:\Windows\System32\smartscreen.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:07:45,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:07:45.179
+ProcessGuid: {c00189fc-4291-6859-d359-000000006900}
+ProcessId: 376128
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:07:41,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:07:41.021
+ProcessGuid: {c00189fc-42dd-6859-455a-000000006900}
+ProcessId: 386036
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:07:11,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:07:11.243
+ProcessGuid: {c00189fc-434f-6859-685a-000000006900}
+ProcessId: 388544
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:07:10,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:07:10.960
+ProcessGuid: {c00189fc-42d5-6859-405a-000000006900}
+ProcessId: 341272
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:06:29,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:06:29.602
+ProcessGuid: {c00189fc-4339-6859-625a-000000006900}
+ProcessId: 387372
+Image: C:\Program Files\Microsoft OneDrive\25.095.0518.0002\FileCoAuth.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:06:28,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:06:28.817
+ProcessGuid: {c00189fc-4344-6859-655a-000000006900}
+ProcessId: 387580
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDWsc.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:06:28,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:06:28.700
+ProcessGuid: {c00189fc-4344-6859-645a-000000006900}
+ProcessId: 370924
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDWsc.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:06:26,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:06:26.316
+ProcessGuid: {c00189fc-4307-6859-535a-000000006900}
+ProcessId: 384912
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:06:23,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:06:23.314
+ProcessGuid: {c00189fc-433e-6859-635a-000000006900}
+ProcessId: 387344
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:06:11,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:06:11.066
+ProcessGuid: {c00189fc-4287-6859-c459-000000006900}
+ProcessId: 373136
+Image: C:\Program Files\HPPrintScanDoctor\HPPrinterHealthMonitor.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:06:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:06:01.598
+ProcessGuid: {c00189fc-42ae-6859-165a-000000006900}
+ProcessId: 381580
+Image: C:\Windows\servicing\TrustedInstaller.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:06:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:06:01.584
+ProcessGuid: {c00189fc-42ae-6859-175a-000000006900}
+ProcessId: 381500
+Image: C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.5911_none_7dd4fd687cb889e8\TiWorker.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:54.826
+ProcessGuid: {c00189fc-4321-6859-5e5a-000000006900}
+ProcessId: 386408
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:05:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:49.635
+ProcessGuid: {c00189fc-431c-6859-5d5a-000000006900}
+ProcessId: 380920
+Image: C:\Users\wah43\AppData\Local\Programs\schedo\스케두.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:05:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:42.012
+ProcessGuid: {c00189fc-4313-6859-5c5a-000000006900}
+ProcessId: 387192
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:05:37,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:37.961
+ProcessGuid: {c00189fc-42b3-6859-1a5a-000000006900}
+ProcessId: 382760
+Image: C:\Program Files\AhnLab\Safe Transaction\MUpdate2\ASDTEMP\ASDUp.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:34,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:34.544
+ProcessGuid: {c00189fc-4308-6859-545a-000000006900}
+ProcessId: 380980
+Image: C:\Program Files\AhnLab\Safe Transaction\MUpdate2\Update\ars\v3restore.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:34,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:34.519
+ProcessGuid: {c00189fc-430d-6859-5b5a-000000006900}
+ProcessId: 372584
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDCli.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:33,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:33.710
+ProcessGuid: {c00189fc-430c-6859-5a5a-000000006900}
+ProcessId: 372548
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDCli.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:32,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:32.513
+ProcessGuid: {c00189fc-430a-6859-595a-000000006900}
+ProcessId: 387160
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDCli.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:30,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:30.947
+ProcessGuid: {c00189fc-42e9-6859-495a-000000006900}
+ProcessId: 386612
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:30,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:30.790
+ProcessGuid: {c00189fc-4309-6859-585a-000000006900}
+ProcessId: 385200
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDCli.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:30,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:30.610
+ProcessGuid: {c00189fc-4302-6859-525a-000000006900}
+ProcessId: 382720
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDCli.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:29,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:29.196
+ProcessGuid: {c00189fc-4308-6859-555a-000000006900}
+ProcessId: 384736
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDCli.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:28,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:28.748
+ProcessGuid: {c00189fc-4308-6859-575a-000000006900}
+ProcessId: 383136
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDWsc.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:28,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:28.676
+ProcessGuid: {c00189fc-42cf-6859-3c5a-000000006900}
+ProcessId: 385020
+Image: C:\Program Files\AhnLab\Safe Transaction\MUpdate2\Update\autoup.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:28,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:28.580
+ProcessGuid: {c00189fc-4308-6859-565a-000000006900}
+ProcessId: 385404
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDWsc.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:28,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:28.559
+ProcessGuid: {c00189fc-42ab-6859-115a-000000006900}
+ProcessId: 376752
+Image: C:\Windows\System32\wbem\WmiPrvSE.exe
+User: NT AUTHORITY\NETWORK SERVICE"
+정보,2025-06-23 오후 9:05:28,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:28.542
+ProcessGuid: {c00189fc-42ae-6859-155a-000000006900}
+ProcessId: 381728
+Image: C:\Windows\System32\wbem\WmiPrvSE.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+정보,2025-06-23 오후 9:05:27,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:27.652
+ProcessGuid: {c00189fc-42fa-6859-515a-000000006900}
+ProcessId: 383668
+Image: C:\Program Files\AhnLab\Safe Transaction\AupASD.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:14,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:14.730
+ProcessGuid: {c00189fc-42f5-6859-4e5a-000000006900}
+ProcessId: 380016
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:05:14,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:14.671
+ProcessGuid: {c00189fc-42f4-6859-4d5a-000000006900}
+ProcessId: 386716
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:05:14,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:14.665
+ProcessGuid: {c00189fc-42fa-6859-505a-000000006900}
+ProcessId: 385080
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:05:14,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:14.400
+ProcessGuid: {c00189fc-4281-6859-a659-000000006900}
+ProcessId: 371724
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:06,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:06.742
+ProcessGuid: {c00189fc-42e3-6859-465a-000000006900}
+ProcessId: 385980
+Image: C:\Program Files\AhnLab\Safe Transaction\AupASD.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:05:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:03.140
+ProcessGuid: {c00189fc-42cb-6859-3a5a-000000006900}
+ProcessId: 384044
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:05:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:05:02.703
+ProcessGuid: {c00189fc-42a9-6859-045a-000000006900}
+ProcessId: 379644
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:59,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:59.754
+ProcessGuid: {c00189fc-42ea-6859-4c5a-000000006900}
+ProcessId: 386676
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:57,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:57.955
+ProcessGuid: {c00189fc-42e9-6859-4b5a-000000006900}
+ProcessId: 384564
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:54.509
+ProcessGuid: {c00189fc-42e6-6859-485a-000000006900}
+ProcessId: 382124
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDWsc.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:04:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:54.440
+ProcessGuid: {c00189fc-42e6-6859-475a-000000006900}
+ProcessId: 386024
+Image: C:\Program Files\AhnLab\Safe Transaction\ASDWsc.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:04:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:51.154
+ProcessGuid: {c00189fc-42ad-6859-135a-000000006900}
+ProcessId: 381296
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:04:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:42.489
+ProcessGuid: {c00189fc-42da-6859-435a-000000006900}
+ProcessId: 384224
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:41,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:41.271
+ProcessGuid: {c00189fc-42d8-6859-425a-000000006900}
+ProcessId: 382036
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:41,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:41.023
+ProcessGuid: {c00189fc-42d8-6859-415a-000000006900}
+ProcessId: 350428
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:38,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:38.785
+ProcessGuid: {c00189fc-4284-6859-be59-000000006900}
+ProcessId: 374188
+Image: C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\opushutil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:34,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:34.962
+ProcessGuid: {c00189fc-42d2-6859-3f5a-000000006900}
+ProcessId: 380996
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:33,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:33.310
+ProcessGuid: {c00189fc-42d1-6859-3e5a-000000006900}
+ProcessId: 384900
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:33,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:33.308
+ProcessGuid: {c00189fc-42d1-6859-3d5a-000000006900}
+ProcessId: 384880
+Image: C:\Windows\System32\wevtutil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:32,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:32.685
+ProcessGuid: {c00189fc-429e-6859-f059-000000006900}
+ProcessId: 379072
+Image: C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.22342.0_x64__8wekyb3d8bbwe\HxTsr.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:31,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:31.551
+ProcessGuid: {c00189fc-42b5-6859-1f5a-000000006900}
+ProcessId: 383284
+Image: C:\Program Files\AhnLab\Safe Transaction\MUpdate2\MUpdate2.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:04:31,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:31.363
+ProcessGuid: {c00189fc-42ce-6859-3b5a-000000006900}
+ProcessId: 384456
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:29,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:29.237
+ProcessGuid: {c00189fc-42bd-6859-2f5a-000000006900}
+ProcessId: 384312
+Image: C:\Program Files (x86)\Google\GoogleUpdater\138.0.7194.0\updater.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:04:29,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:29.227
+ProcessGuid: {c00189fc-42bc-6859-2e5a-000000006900}
+ProcessId: 384104
+Image: C:\Program Files (x86)\Google\GoogleUpdater\138.0.7194.0\updater.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:04:25,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:25.821
+ProcessGuid: {c00189fc-42c4-6859-365a-000000006900}
+ProcessId: 383680
+Image: C:\Windows\System32\taskhostw.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:25,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:25.082
+ProcessGuid: {c00189fc-42c7-6859-395a-000000006900}
+ProcessId: 384940
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:24,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:24.693
+ProcessGuid: {c00189fc-42c7-6859-375a-000000006900}
+ProcessId: 383380
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:24,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:24.693
+ProcessGuid: {c00189fc-42c7-6859-385a-000000006900}
+ProcessId: 384932
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:22,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:22.716
+ProcessGuid: {c00189fc-42a0-6859-f359-000000006900}
+ProcessId: 378608
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\137.0.3296.93\identity_helper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:20,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:20.671
+ProcessGuid: {c00189fc-42b2-6859-195a-000000006900}
+ProcessId: 382908
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:16,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:16.916
+ProcessGuid: {c00189fc-42bb-6859-2d5a-000000006900}
+ProcessId: 374564
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:16,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:16.913
+ProcessGuid: {c00189fc-42bd-6859-305a-000000006900}
+ProcessId: 384124
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:16,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:16.907
+ProcessGuid: {c00189fc-42be-6859-325a-000000006900}
+ProcessId: 384404
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:16,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:16.757
+ProcessGuid: {c00189fc-42b9-6859-2c5a-000000006900}
+ProcessId: 374696
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:14,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:14.617
+ProcessGuid: {c00189fc-42a9-6859-0a5a-000000006900}
+ProcessId: 380648
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:14,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:14.614
+ProcessGuid: {c00189fc-42a9-6859-095a-000000006900}
+ProcessId: 380504
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:12,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:12.426
+ProcessGuid: {c00189fc-42b9-6859-2a5a-000000006900}
+ProcessId: 375184
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:12,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:12.425
+ProcessGuid: {c00189fc-42b9-6859-2b5a-000000006900}
+ProcessId: 375180
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:10,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:10.929
+ProcessGuid: {c00189fc-429b-6859-ec59-000000006900}
+ProcessId: 377888
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:09,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:09.093
+ProcessGuid: {c00189fc-42b9-6859-295a-000000006900}
+ProcessId: 383800
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:09,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:09.085
+ProcessGuid: {c00189fc-42b8-6859-285a-000000006900}
+ProcessId: 383892
+Image: C:\Windows\System32\reg.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:08,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:08.159
+ProcessGuid: {c00189fc-42b7-6859-275a-000000006900}
+ProcessId: 374096
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:08,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:08.135
+ProcessGuid: {c00189fc-42b7-6859-265a-000000006900}
+ProcessId: 383012
+Image: C:\Windows\System32\reg.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:07,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:07.837
+ProcessGuid: {c00189fc-42b7-6859-255a-000000006900}
+ProcessId: 383072
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:07,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:07.786
+ProcessGuid: {c00189fc-42b7-6859-245a-000000006900}
+ProcessId: 373884
+Image: C:\Windows\System32\reg.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:07,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:07.014
+ProcessGuid: {c00189fc-42b6-6859-225a-000000006900}
+ProcessId: 382604
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:06,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:06.956
+ProcessGuid: {c00189fc-42b6-6859-215a-000000006900}
+ProcessId: 380940
+Image: C:\Windows\System32\cmd.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:06,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:06.952
+ProcessGuid: {c00189fc-42b6-6859-235a-000000006900}
+ProcessId: 381656
+Image: C:\Windows\System32\net.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:06,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 12:04:06.579
+ProcessGuid: {c00189fc-42b6-6859-215a-000000006900}
+ProcessId: 380940
+Image: C:\Windows\System32\cmd.exe
+FileVersion: 10.0.19041.4355 (WinBuild.160101.0800)
+Description: Windows Command Processor
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: Cmd.Exe
+CommandLine: cmd /c ""net use C:""
+CurrentDirectory: C:\Users\wah43\AppData\Local\Temp\
+User: DESKTOP-GHQF7EL\wah43
+LogonGuid: {c00189fc-4281-6859-4bff-f41500000000}
+LogonId: 0x15F4FF4B
+TerminalSessionId: 33
+IntegrityLevel: Medium
+Hashes: SHA256=BADF4752413CB0CBDC03FB95820CA167F0CDC63B597CCDB5EF43111180E088B0
+ParentProcessGuid: {c00189fc-42a4-6859-fc59-000000006900}
+ParentProcessId: 379864
+ParentImage: C:\Xilinx\xic\tps\win64\jre11.0.11_9\bin\java.exe
+ParentCommandLine: """"C:\Xilinx\xic\tps\win64\jre11.0.11_9""""\bin\java.exe   -DLOAD_64_NATIVE=""true"" -Djava.library.path=""C:\Xilinx\xic\lib\win64.o;;C:\WINDOWS\system32;C:\WINDOWS\system32\wbem;C:\WINDOWS"" -DOS_ARCH=""64"" -DDYNAMIC_LANGUAGE_BUNDLE=""C:\Xilinx\xic\data""  -Dsun.java2d.d3d=false -XX:HeapDumpPath=""C:\Users\wah43\.Xilinx\xinstall"" -Dlogback.configurationFile=C:\Xilinx\xic\data\xic-logback.xml -DLOG_FILE_NAME=C:\Users\wah43/.Xilinx\xinstall\xic.log -DLOG_FILE=C:\Users\wah43\.Xilinx\xinstall\xic.log -DHAS_DYNAMIC_LANGUAGE_BUNDLE=false -Xmx1024m -cp C:\Xilinx\xic\lib\classes\commons-codec-1.6.jar;C:\Xilinx\xic\lib\classes\jaxb-api-2.3.1.jar;C:\Xilinx\xic\lib\classes\jaxb-core-2.3.0.1.jar;C:\Xilinx\xic\lib\classes\jaxb-impl-2.3.1.jar;C:\Xilinx\xic\lib\classes\json-simple-1.1.1.jar;C:\Xilinx\xic\lib\classes\httpclient-4.2.5.jar;C:\Xilinx\xic\lib\classes\httpcore-4.2.4.jar;C:\Xilinx\xic\lib\classes\commons-logging-1.1.1.jar;C:\Xilinx\xic\lib\classes\commons-cli-1.4.jar;C:\Xilinx\xic\lib\classes\xinstaller.jar;C:\Xilinx\xic\lib\classes\slf4j-api-1.7.32.jar;C:\Xilinx\xic\lib\classes\logback-core-1.2.8.jar;C:\Xilinx\xic\lib\classes\logback-classic-1.2.8.jar;C:\Xilinx\xic\lib\classes\sevenzipjbinding-AllWindows.jar;C:\Xilinx\xic\lib\classes\zip4j-2.2.1.jar com.xilinx.xic.XIC -c -t
+ParentUser: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:04,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:04.924
+ProcessGuid: {c00189fc-42b4-6859-1e5a-000000006900}
+ProcessId: 381476
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:04,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:04.907
+ProcessGuid: {c00189fc-42b4-6859-1d5a-000000006900}
+ProcessId: 381784
+Image: C:\Windows\System32\cmd.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:04,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 12:04:04.770
+ProcessGuid: {c00189fc-42b4-6859-1d5a-000000006900}
+ProcessId: 381784
+Image: C:\Windows\System32\cmd.exe
+FileVersion: 10.0.19041.4355 (WinBuild.160101.0800)
+Description: Windows Command Processor
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: Cmd.Exe
+CommandLine: cmd /c ""echo %%ALLUSERSPROFILE%%""
+CurrentDirectory: C:\Users\wah43\AppData\Local\Temp\
+User: DESKTOP-GHQF7EL\wah43
+LogonGuid: {c00189fc-4281-6859-4bff-f41500000000}
+LogonId: 0x15F4FF4B
+TerminalSessionId: 33
+IntegrityLevel: Medium
+Hashes: SHA256=BADF4752413CB0CBDC03FB95820CA167F0CDC63B597CCDB5EF43111180E088B0
+ParentProcessGuid: {c00189fc-42a4-6859-fc59-000000006900}
+ParentProcessId: 379864
+ParentImage: C:\Xilinx\xic\tps\win64\jre11.0.11_9\bin\java.exe
+ParentCommandLine: """"C:\Xilinx\xic\tps\win64\jre11.0.11_9""""\bin\java.exe   -DLOAD_64_NATIVE=""true"" -Djava.library.path=""C:\Xilinx\xic\lib\win64.o;;C:\WINDOWS\system32;C:\WINDOWS\system32\wbem;C:\WINDOWS"" -DOS_ARCH=""64"" -DDYNAMIC_LANGUAGE_BUNDLE=""C:\Xilinx\xic\data""  -Dsun.java2d.d3d=false -XX:HeapDumpPath=""C:\Users\wah43\.Xilinx\xinstall"" -Dlogback.configurationFile=C:\Xilinx\xic\data\xic-logback.xml -DLOG_FILE_NAME=C:\Users\wah43/.Xilinx\xinstall\xic.log -DLOG_FILE=C:\Users\wah43\.Xilinx\xinstall\xic.log -DHAS_DYNAMIC_LANGUAGE_BUNDLE=false -Xmx1024m -cp C:\Xilinx\xic\lib\classes\commons-codec-1.6.jar;C:\Xilinx\xic\lib\classes\jaxb-api-2.3.1.jar;C:\Xilinx\xic\lib\classes\jaxb-core-2.3.0.1.jar;C:\Xilinx\xic\lib\classes\jaxb-impl-2.3.1.jar;C:\Xilinx\xic\lib\classes\json-simple-1.1.1.jar;C:\Xilinx\xic\lib\classes\httpclient-4.2.5.jar;C:\Xilinx\xic\lib\classes\httpcore-4.2.4.jar;C:\Xilinx\xic\lib\classes\commons-logging-1.1.1.jar;C:\Xilinx\xic\lib\classes\commons-cli-1.4.jar;C:\Xilinx\xic\lib\classes\xinstaller.jar;C:\Xilinx\xic\lib\classes\slf4j-api-1.7.32.jar;C:\Xilinx\xic\lib\classes\logback-core-1.2.8.jar;C:\Xilinx\xic\lib\classes\logback-classic-1.2.8.jar;C:\Xilinx\xic\lib\classes\sevenzipjbinding-AllWindows.jar;C:\Xilinx\xic\lib\classes\zip4j-2.2.1.jar com.xilinx.xic.XIC -c -t
+ParentUser: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:04,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:04.769
+ProcessGuid: {c00189fc-42b4-6859-1c5a-000000006900}
+ProcessId: 381836
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:04,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:04.758
+ProcessGuid: {c00189fc-42b4-6859-1b5a-000000006900}
+ProcessId: 382644
+Image: C:\Windows\System32\cmd.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:04,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:04.731
+ProcessGuid: {c00189fc-1613-6859-4d59-000000006900}
+ProcessId: 367668
+Image: C:\Windows\System32\SearchFilterHost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:04:04,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 12:04:04.555
+ProcessGuid: {c00189fc-42b4-6859-1b5a-000000006900}
+ProcessId: 382644
+Image: C:\Windows\System32\cmd.exe
+FileVersion: 10.0.19041.4355 (WinBuild.160101.0800)
+Description: Windows Command Processor
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: Cmd.Exe
+CommandLine: cmd /c ""echo %%TEMP%%""
+CurrentDirectory: C:\Users\wah43\AppData\Local\Temp\
+User: DESKTOP-GHQF7EL\wah43
+LogonGuid: {c00189fc-4281-6859-4bff-f41500000000}
+LogonId: 0x15F4FF4B
+TerminalSessionId: 33
+IntegrityLevel: Medium
+Hashes: SHA256=BADF4752413CB0CBDC03FB95820CA167F0CDC63B597CCDB5EF43111180E088B0
+ParentProcessGuid: {c00189fc-42a4-6859-fc59-000000006900}
+ParentProcessId: 379864
+ParentImage: C:\Xilinx\xic\tps\win64\jre11.0.11_9\bin\java.exe
+ParentCommandLine: """"C:\Xilinx\xic\tps\win64\jre11.0.11_9""""\bin\java.exe   -DLOAD_64_NATIVE=""true"" -Djava.library.path=""C:\Xilinx\xic\lib\win64.o;;C:\WINDOWS\system32;C:\WINDOWS\system32\wbem;C:\WINDOWS"" -DOS_ARCH=""64"" -DDYNAMIC_LANGUAGE_BUNDLE=""C:\Xilinx\xic\data""  -Dsun.java2d.d3d=false -XX:HeapDumpPath=""C:\Users\wah43\.Xilinx\xinstall"" -Dlogback.configurationFile=C:\Xilinx\xic\data\xic-logback.xml -DLOG_FILE_NAME=C:\Users\wah43/.Xilinx\xinstall\xic.log -DLOG_FILE=C:\Users\wah43\.Xilinx\xinstall\xic.log -DHAS_DYNAMIC_LANGUAGE_BUNDLE=false -Xmx1024m -cp C:\Xilinx\xic\lib\classes\commons-codec-1.6.jar;C:\Xilinx\xic\lib\classes\jaxb-api-2.3.1.jar;C:\Xilinx\xic\lib\classes\jaxb-core-2.3.0.1.jar;C:\Xilinx\xic\lib\classes\jaxb-impl-2.3.1.jar;C:\Xilinx\xic\lib\classes\json-simple-1.1.1.jar;C:\Xilinx\xic\lib\classes\httpclient-4.2.5.jar;C:\Xilinx\xic\lib\classes\httpcore-4.2.4.jar;C:\Xilinx\xic\lib\classes\commons-logging-1.1.1.jar;C:\Xilinx\xic\lib\classes\commons-cli-1.4.jar;C:\Xilinx\xic\lib\classes\xinstaller.jar;C:\Xilinx\xic\lib\classes\slf4j-api-1.7.32.jar;C:\Xilinx\xic\lib\classes\logback-core-1.2.8.jar;C:\Xilinx\xic\lib\classes\logback-classic-1.2.8.jar;C:\Xilinx\xic\lib\classes\sevenzipjbinding-AllWindows.jar;C:\Xilinx\xic\lib\classes\zip4j-2.2.1.jar com.xilinx.xic.XIC -c -t
+ParentUser: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:00,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:00.472
+ProcessGuid: {c00189fc-42ab-6859-0d5a-000000006900}
+ProcessId: 381172
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:00,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:00.457
+ProcessGuid: {c00189fc-42aa-6859-0c5a-000000006900}
+ProcessId: 381408
+Image: C:\Windows\System32\cmd.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:00,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:00.453
+ProcessGuid: {c00189fc-42ab-6859-105a-000000006900}
+ProcessId: 379540
+Image: C:\Windows\System32\findstr.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:04:00,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:04:00.447
+ProcessGuid: {c00189fc-42ab-6859-0f5a-000000006900}
+ProcessId: 381552
+Image: C:\Windows\System32\systeminfo.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:59,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:59.558
+ProcessGuid: {c00189fc-42a3-6859-f759-000000006900}
+ProcessId: 377840
+Image: C:\Windows\SysWOW64\runonce.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:56,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:56.029
+ProcessGuid: {c00189fc-42ab-6859-0e5a-000000006900}
+ProcessId: 381592
+Image: C:\Program Files (x86)\IPinside_LWS\I3GProc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:55,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:55.808
+ProcessGuid: {c00189fc-4284-6859-bf59-000000006900}
+ProcessId: 374620
+Image: C:\Windows\System32\userinit.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:54,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 12:03:54.914
+ProcessGuid: {c00189fc-42aa-6859-0c5a-000000006900}
+ProcessId: 381408
+Image: C:\Windows\System32\cmd.exe
+FileVersion: 10.0.19041.4355 (WinBuild.160101.0800)
+Description: Windows Command Processor
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: Cmd.Exe
+CommandLine: cmd /c ""systeminfo | findstr /B /C:""OS Name"" /C:""OS Version""""
+CurrentDirectory: C:\Xilinx\xic\
+User: DESKTOP-GHQF7EL\wah43
+LogonGuid: {c00189fc-4281-6859-4bff-f41500000000}
+LogonId: 0x15F4FF4B
+TerminalSessionId: 33
+IntegrityLevel: Medium
+Hashes: SHA256=BADF4752413CB0CBDC03FB95820CA167F0CDC63B597CCDB5EF43111180E088B0
+ParentProcessGuid: {c00189fc-42a4-6859-fc59-000000006900}
+ParentProcessId: 379864
+ParentImage: C:\Xilinx\xic\tps\win64\jre11.0.11_9\bin\java.exe
+ParentCommandLine: """"C:\Xilinx\xic\tps\win64\jre11.0.11_9""""\bin\java.exe   -DLOAD_64_NATIVE=""true"" -Djava.library.path=""C:\Xilinx\xic\lib\win64.o;;C:\WINDOWS\system32;C:\WINDOWS\system32\wbem;C:\WINDOWS"" -DOS_ARCH=""64"" -DDYNAMIC_LANGUAGE_BUNDLE=""C:\Xilinx\xic\data""  -Dsun.java2d.d3d=false -XX:HeapDumpPath=""C:\Users\wah43\.Xilinx\xinstall"" -Dlogback.configurationFile=C:\Xilinx\xic\data\xic-logback.xml -DLOG_FILE_NAME=C:\Users\wah43/.Xilinx\xinstall\xic.log -DLOG_FILE=C:\Users\wah43\.Xilinx\xinstall\xic.log -DHAS_DYNAMIC_LANGUAGE_BUNDLE=false -Xmx1024m -cp C:\Xilinx\xic\lib\classes\commons-codec-1.6.jar;C:\Xilinx\xic\lib\classes\jaxb-api-2.3.1.jar;C:\Xilinx\xic\lib\classes\jaxb-core-2.3.0.1.jar;C:\Xilinx\xic\lib\classes\jaxb-impl-2.3.1.jar;C:\Xilinx\xic\lib\classes\json-simple-1.1.1.jar;C:\Xilinx\xic\lib\classes\httpclient-4.2.5.jar;C:\Xilinx\xic\lib\classes\httpcore-4.2.4.jar;C:\Xilinx\xic\lib\classes\commons-logging-1.1.1.jar;C:\Xilinx\xic\lib\classes\commons-cli-1.4.jar;C:\Xilinx\xic\lib\classes\xinstaller.jar;C:\Xilinx\xic\lib\classes\slf4j-api-1.7.32.jar;C:\Xilinx\xic\lib\classes\logback-core-1.2.8.jar;C:\Xilinx\xic\lib\classes\logback-classic-1.2.8.jar;C:\Xilinx\xic\lib\classes\sevenzipjbinding-AllWindows.jar;C:\Xilinx\xic\lib\classes\zip4j-2.2.1.jar com.xilinx.xic.XIC -c -t
+ParentUser: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:54.919
+ProcessGuid: {c00189fc-42a9-6859-055a-000000006900}
+ProcessId: 380112
+Image: C:\Program Files (x86)\SoftForum\XecureWeb\AnySign\dll\AnySign4PC.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:54.831
+ProcessGuid: {c00189fc-42aa-6859-0b5a-000000006900}
+ProcessId: 380220
+Image: C:\Program Files\Google\Chrome\Application\137.0.7151.120\elevation_service.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:03:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:53.309
+ProcessGuid: {c00189fc-42a4-6859-fb59-000000006900}
+ProcessId: 378604
+Image: C:\Program Files (x86)\Teams Installer\Teams.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:52.518
+ProcessGuid: {c00189fc-42a5-6859-015a-000000006900}
+ProcessId: 380472
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:52.418
+ProcessGuid: {c00189fc-42a5-6859-005a-000000006900}
+ProcessId: 380336
+Image: C:\Users\wah43\AppData\Local\Temp\a77cdcb6-dce9-4c8e-90f5-405fb9080496.tmp.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:48,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:48.395
+ProcessGuid: {c00189fc-42a3-6859-f859-000000006900}
+ProcessId: 379284
+Image: C:\Xilinx\xic\xic.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:48,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 12:03:48.343
+ProcessGuid: {c00189fc-42a4-6859-f959-000000006900}
+ProcessId: 378648
+Image: C:\Windows\System32\cmd.exe
+FileVersion: 10.0.19041.4355 (WinBuild.160101.0800)
+Description: Windows Command Processor
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: Cmd.Exe
+CommandLine: C:\WINDOWS\system32\cmd.exe /c """"C:\Xilinx\xic\bin\xic.bat"" -c -t""
+CurrentDirectory: C:\Xilinx\xic\
+User: DESKTOP-GHQF7EL\wah43
+LogonGuid: {c00189fc-4281-6859-4bff-f41500000000}
+LogonId: 0x15F4FF4B
+TerminalSessionId: 33
+IntegrityLevel: Medium
+Hashes: SHA256=BADF4752413CB0CBDC03FB95820CA167F0CDC63B597CCDB5EF43111180E088B0
+ParentProcessGuid: {c00189fc-42a3-6859-f859-000000006900}
+ParentProcessId: 379284
+ParentImage: C:\Xilinx\xic\xic.exe
+ParentCommandLine: ""C:\Xilinx\xic\xic.exe"" -c -t
+ParentUser: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:46.817
+ProcessGuid: {c00189fc-42a1-6859-f659-000000006900}
+ProcessId: 378548
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:46.801
+ProcessGuid: {c00189fc-42a1-6859-f559-000000006900}
+ProcessId: 378508
+Image: C:\Windows\System32\wevtutil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:46.169
+ProcessGuid: {c00189fc-162b-6859-a459-000000006900}
+ProcessId: 370516
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+정보,2025-06-23 오후 9:03:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:46.138
+ProcessGuid: {c00189fc-4283-6859-b759-000000006900}
+ProcessId: 369816
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:03:44,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:44.372
+ProcessGuid: {c00189fc-42a0-6859-f259-000000006900}
+ProcessId: 376580
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\137.0.3296.93\identity_helper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:43,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:43.247
+ProcessGuid: {c00189fc-428c-6859-cd59-000000006900}
+ProcessId: 374048
+Image: C:\Windows\System32\LocationNotificationWindows.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:43,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:43.185
+ProcessGuid: {c00189fc-429e-6859-f159-000000006900}
+ProcessId: 378448
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:42.829
+ProcessGuid: {c00189fc-429c-6859-ee59-000000006900}
+ProcessId: 379100
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:40,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:40.751
+ProcessGuid: {c00189fc-429b-6859-ea59-000000006900}
+ProcessId: 376432
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:40,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:40.689
+ProcessGuid: {c00189fc-429b-6859-e759-000000006900}
+ProcessId: 376632
+Image: C:\Windows\System32\netsh.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:40,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:40.579
+ProcessGuid: {c00189fc-429b-6859-ed59-000000006900}
+ProcessId: 377860
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\137.0.3296.93\elevation_service.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:03:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:39.611
+ProcessGuid: {c00189fc-429b-6859-e659-000000006900}
+ProcessId: 376284
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:39.595
+ProcessGuid: {c00189fc-429b-6859-e559-000000006900}
+ProcessId: 378280
+Image: C:\Windows\System32\CheckNetIsolation.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:39.532
+ProcessGuid: {c00189fc-429b-6859-e359-000000006900}
+ProcessId: 371672
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:39.517
+ProcessGuid: {c00189fc-429b-6859-e259-000000006900}
+ProcessId: 346936
+Image: C:\Windows\System32\certutil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:39.392
+ProcessGuid: {c00189fc-429a-6859-e159-000000006900}
+ProcessId: 378028
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:39.392
+ProcessGuid: {c00189fc-429a-6859-e059-000000006900}
+ProcessId: 378036
+Image: C:\Windows\System32\certutil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:38,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:38.501
+ProcessGuid: {c00189fc-429a-6859-de59-000000006900}
+ProcessId: 378000
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:38,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:38.392
+ProcessGuid: {c00189fc-429a-6859-dd59-000000006900}
+ProcessId: 377296
+Image: C:\Program Files\AhnLab\Safe Transaction\StSess.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:37,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:37.517
+ProcessGuid: {c00189fc-4299-6859-da59-000000006900}
+ProcessId: 377424
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:37,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:37.423
+ProcessGuid: {c00189fc-4299-6859-d959-000000006900}
+ProcessId: 376608
+Image: C:\Windows\System32\wevtutil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:36,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:36.876
+ProcessGuid: {c00189fc-4296-6859-d659-000000006900}
+ProcessId: 376456
+Image: C:\Program Files (x86)\IPinside_LWS\I3GInit.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:35,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:35.986
+ProcessGuid: {c00189fc-4297-6859-d759-000000006900}
+ProcessId: 376240
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:35,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:35.829
+ProcessGuid: {c00189fc-160d-6859-4759-000000006900}
+ProcessId: 359652
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:03:35,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:35.548
+ProcessGuid: {c00189fc-428e-6859-cf59-000000006900}
+ProcessId: 374060
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:34,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:34.798
+ProcessGuid: {c00189fc-4291-6859-d259-000000006900}
+ProcessId: 375672
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:30,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:30.407
+ProcessGuid: {c00189fc-428c-6859-cc59-000000006900}
+ProcessId: 374932
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:27,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:27.564
+ProcessGuid: {c00189fc-1619-6859-5659-000000006900}
+ProcessId: 361488
+Image: C:\Windows\System32\LogonUI.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:03:27,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:27.564
+ProcessGuid: {c00189fc-4289-6859-c659-000000006900}
+ProcessId: 373964
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:23,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:23.844
+ProcessGuid: {c00189fc-4282-6859-ad59-000000006900}
+ProcessId: 372168
+Image: C:\Program Files\AhnLab\Safe Transaction\StSess.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:22,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:22.088
+ProcessGuid: {c00189fc-4282-6859-ab59-000000006900}
+ProcessId: 371320
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:21,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:21.181
+ProcessGuid: {c00189fc-4282-6859-ae59-000000006900}
+ProcessId: 372664
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:21,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:21.161
+ProcessGuid: {c00189fc-4282-6859-ac59-000000006900}
+ProcessId: 353908
+Image: C:\Program Files (x86)\Axissoft\StarPlayerAgent\StarPlayerAgent64.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:19,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:19.500
+ProcessGuid: {c00189fc-4283-6859-ba59-000000006900}
+ProcessId: 373052
+Image: C:\Windows\System32\taskhostw.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:16,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:16.336
+ProcessGuid: {c00189fc-4284-6859-bd59-000000006900}
+ProcessId: 372872
+Image: C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\opushutil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 9:03:14,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:14.150
+ProcessGuid: {c00189fc-4281-6859-a959-000000006900}
+ProcessId: 371584
+Image: C:\Windows\System32\WerFault.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:03:13,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:13.853
+ProcessGuid: {c00189fc-4280-6859-a559-000000006900}
+ProcessId: 360140
+Image: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_51f685305808e3a5\IntelCpHeciSvc.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 9:03:13,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 12:03:13.181
+ProcessGuid: {c00189fc-4281-6859-a759-000000006900}
+ProcessId: 370180
+Image: C:\Windows\System32\WerFault.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:54:06,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:06.814
+ProcessGuid: {c00189fc-b72b-6858-1f4d-000000006900}
+ProcessId: 575120
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+정보,2025-06-23 오후 5:54:05,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:05.173
+ProcessGuid: {c00189fc-a0eb-6858-f64c-000000006900}
+ProcessId: 572340
+Image: C:\Windows\System32\csrss.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.894
+ProcessGuid: {c00189fc-a0eb-6858-f74c-000000006900}
+ProcessId: 572388
+Image: C:\Windows\System32\winlogon.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.880
+ProcessGuid: {c00189fc-a0eb-6858-f84c-000000006900}
+ProcessId: 572648
+Image: C:\Windows\System32\fontdrvhost.exe
+User: Font Driver Host\UMFD-32"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.847
+ProcessGuid: {c00189fc-a0eb-6858-fb4c-000000006900}
+ProcessId: 572688
+Image: C:\Windows\System32\dwm.exe
+User: Window Manager\DWM-32"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.772
+ProcessGuid: {c00189fc-1618-6859-5459-000000006900}
+ProcessId: 367408
+Image: C:\Windows\System32\LogonUI.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.526
+ProcessGuid: {c00189fc-b72c-6858-274d-000000006900}
+ProcessId: 575464
+Image: C:\Windows\System32\svchost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.526
+ProcessGuid: {c00189fc-b731-6858-3d4d-000000006900}
+ProcessId: 577108
+Image: C:\Windows\System32\svchost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.325
+ProcessGuid: {c00189fc-b72e-6858-374d-000000006900}
+ProcessId: 576480
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.185
+ProcessGuid: {c00189fc-b72c-6858-2a4d-000000006900}
+ProcessId: 575536
+Image: C:\Windows\System32\svchost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.117
+ProcessGuid: {c00189fc-b72c-6858-294d-000000006900}
+ProcessId: 575480
+Image: C:\Windows\System32\svchost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.086
+ProcessGuid: {c00189fc-b731-6858-3e4d-000000006900}
+ProcessId: 577132
+Image: C:\Windows\System32\svchost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.023
+ProcessGuid: {c00189fc-b73a-6858-474d-000000006900}
+ProcessId: 578724
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.023
+ProcessGuid: {c00189fc-b736-6858-424d-000000006900}
+ProcessId: 577732
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.008
+ProcessGuid: {c00189fc-b766-6858-a44d-000000006900}
+ProcessId: 585896
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.008
+ProcessGuid: {c00189fc-1617-6859-4f59-000000006900}
+ProcessId: 367168
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:03.008
+ProcessGuid: {c00189fc-162a-6859-a359-000000006900}
+ProcessId: 369012
+Image: C:\Program Files (x86)\INITECH\INISAFE Web EX Client\INISAFEAdminUtil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.914
+ProcessGuid: {c00189fc-b8e2-6858-814e-000000006900}
+ProcessId: 30056
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.867
+ProcessGuid: {c00189fc-b8e1-6858-7f4e-000000006900}
+ProcessId: 30668
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.851
+ProcessGuid: {c00189fc-b8e2-6858-824e-000000006900}
+ProcessId: 12584
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.851
+ProcessGuid: {c00189fc-b73e-6858-4c4d-000000006900}
+ProcessId: 579304
+Image: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.836
+ProcessGuid: {c00189fc-b7c0-6858-d54d-000000006900}
+ProcessId: 339696
+Image: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.820
+ProcessGuid: {c00189fc-160c-6859-4659-000000006900}
+ProcessId: 363620
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.820
+ProcessGuid: {c00189fc-162a-6859-a259-000000006900}
+ProcessId: 360552
+Image: C:\Kings\KOS\KOSinj.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.805
+ProcessGuid: {c00189fc-b765-6858-a34d-000000006900}
+ProcessId: 585744
+Image: C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.789
+ProcessGuid: {c00189fc-b8e0-6858-7e4e-000000006900}
+ProcessId: 31032
+Image: C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.789
+ProcessGuid: {c00189fc-b72c-6858-2c4d-000000006900}
+ProcessId: 575648
+Image: C:\Windows\System32\taskhostw.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.773
+ProcessGuid: {c00189fc-b8e1-6858-804e-000000006900}
+ProcessId: 22308
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.758
+ProcessGuid: {c00189fc-b7c0-6858-d64d-000000006900}
+ProcessId: 589216
+Image: C:\Windows\System32\ApplicationFrameHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.758
+ProcessGuid: {c00189fc-b72c-6858-264d-000000006900}
+ProcessId: 575448
+Image: C:\Windows\System32\sihost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.758
+ProcessGuid: {c00189fc-dafa-6858-b154-000000006900}
+ProcessId: 186840
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.758
+ProcessGuid: {c00189fc-b72e-6858-384d-000000006900}
+ProcessId: 576500
+Image: C:\Windows\System32\ctfmon.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.742
+ProcessGuid: {c00189fc-1629-6859-9c59-000000006900}
+ProcessId: 370296
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.242
+ProcessGuid: {c00189fc-1629-6859-9e59-000000006900}
+ProcessId: 350296
+Image: C:\Kings\KOS\KOSinj.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.023
+ProcessGuid: {c00189fc-d3e1-6858-e853-000000006900}
+ProcessId: 164660
+Image: C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:02.008
+ProcessGuid: {c00189fc-b735-6858-404d-000000006900}
+ProcessId: 577636
+Image: C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.992
+ProcessGuid: {c00189fc-1629-6859-9f59-000000006900}
+ProcessId: 370840
+Image: C:\Kings\KOS\KOSinj64.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.929
+ProcessGuid: {c00189fc-1629-6859-a159-000000006900}
+ProcessId: 355964
+Image: C:\Program Files (x86)\initech\INISAFE Web EX Client\INISAFECrossWebEXSvc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.929
+ProcessGuid: {c00189fc-b72d-6858-344d-000000006900}
+ProcessId: 576168
+Image: C:\Windows\explorer.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.804
+ProcessGuid: {c00189fc-1629-6859-a059-000000006900}
+ProcessId: 370864
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.273
+ProcessGuid: {c00189fc-1629-6859-9d59-000000006900}
+ProcessId: 370432
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.242
+ProcessGuid: {c00189fc-1629-6859-9b59-000000006900}
+ProcessId: 369912
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.226
+ProcessGuid: {c00189fc-b72c-6858-2b4d-000000006900}
+ProcessId: 575628
+Image: C:\Windows\System32\taskhostw.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.195
+ProcessGuid: {c00189fc-1624-6859-8e59-000000006900}
+ProcessId: 366440
+Image: C:\Kings\KOS\KOSinj.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.195
+ProcessGuid: {c00189fc-1625-6859-9359-000000006900}
+ProcessId: 359480
+Image: C:\Program Files (x86)\INITECH\INISAFE Web EX Client\INISAFEAdminUtil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.195
+ProcessGuid: {c00189fc-1624-6859-8f59-000000006900}
+ProcessId: 369480
+Image: C:\Kings\KOS\KOSinj64.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.149
+ProcessGuid: {c00189fc-b8e3-6858-834e-000000006900}
+ProcessId: 31528
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:01,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:01.133
+ProcessGuid: {c00189fc-b8e3-6858-844e-000000006900}
+ProcessId: 29204
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:00,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:00.726
+ProcessGuid: {c00189fc-1628-6859-9a59-000000006900}
+ProcessId: 369744
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:54:00,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:54:00.195
+ProcessGuid: {c00189fc-1628-6859-9959-000000006900}
+ProcessId: 368872
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:59,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:59.929
+ProcessGuid: {c00189fc-1627-6859-9859-000000006900}
+ProcessId: 370268
+Image: C:\Program Files (x86)\INITECH\INISAFE Web EX Client\INISAFECrossWebEXSvc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:59,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:59.664
+ProcessGuid: {c00189fc-1627-6859-9759-000000006900}
+ProcessId: 369528
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:59,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:59.133
+ProcessGuid: {c00189fc-1627-6859-9659-000000006900}
+ProcessId: 369016
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:58,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:58.601
+ProcessGuid: {c00189fc-1626-6859-9559-000000006900}
+ProcessId: 368660
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:58,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:58.070
+ProcessGuid: {c00189fc-1626-6859-9459-000000006900}
+ProcessId: 369856
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:57,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:57.883
+ProcessGuid: {c00189fc-1625-6859-9259-000000006900}
+ProcessId: 369116
+Image: C:\Program Files (x86)\INITECH\INISAFE Web EX Client\INISAFECrossWebEXSvc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:57,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:57.523
+ProcessGuid: {c00189fc-1625-6859-9159-000000006900}
+ProcessId: 369740
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:57,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:57.054
+ProcessGuid: {c00189fc-1613-6859-4c59-000000006900}
+ProcessId: 358892
+Image: C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.22342.0_x64__8wekyb3d8bbwe\HxTsr.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:57,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:56.992
+ProcessGuid: {c00189fc-1624-6859-9059-000000006900}
+ProcessId: 369596
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:56,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:56.461
+ProcessGuid: {c00189fc-1624-6859-8d59-000000006900}
+ProcessId: 369052
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:56,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:56.133
+ProcessGuid: {c00189fc-1620-6859-6e59-000000006900}
+ProcessId: 369328
+Image: C:\Program Files (x86)\INITECH\INISAFE Web EX Client\INISAFEAdminUtil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:56,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:56.133
+ProcessGuid: {c00189fc-161b-6859-5959-000000006900}
+ProcessId: 368124
+Image: C:\Kings\KOS\KOSinj.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:55,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:55.914
+ProcessGuid: {c00189fc-1623-6859-8c59-000000006900}
+ProcessId: 369164
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:55,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:55.883
+ProcessGuid: {c00189fc-1623-6859-8b59-000000006900}
+ProcessId: 369996
+Image: C:\Program Files (x86)\INITECH\INISAFE Web EX Client\INISAFECrossWebEXSvc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:55,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:55.366
+ProcessGuid: {c00189fc-1623-6859-8a59-000000006900}
+ProcessId: 369788
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:54.835
+ProcessGuid: {c00189fc-1622-6859-8959-000000006900}
+ProcessId: 369064
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:54.319
+ProcessGuid: {c00189fc-1618-6859-5259-000000006900}
+ProcessId: 367276
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:54.272
+ProcessGuid: {c00189fc-1622-6859-8759-000000006900}
+ProcessId: 368012
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:54.163
+ProcessGuid: {c00189fc-1622-6859-8659-000000006900}
+ProcessId: 368964
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:54.085
+ProcessGuid: {c00189fc-1622-6859-8559-000000006900}
+ProcessId: 370036
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:54,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:54.007
+ProcessGuid: {c00189fc-1622-6859-8459-000000006900}
+ProcessId: 368684
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.928
+ProcessGuid: {c00189fc-1621-6859-8359-000000006900}
+ProcessId: 369888
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.882
+ProcessGuid: {c00189fc-1621-6859-8259-000000006900}
+ProcessId: 369380
+Image: C:\Program Files (x86)\INITECH\INISAFE Web EX Client\INISAFECrossWebEXSvc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.835
+ProcessGuid: {c00189fc-1621-6859-8159-000000006900}
+ProcessId: 369344
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.772
+ProcessGuid: {c00189fc-1621-6859-8059-000000006900}
+ProcessId: 365964
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.741
+ProcessGuid: {c00189fc-1621-6859-7f59-000000006900}
+ProcessId: 366012
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.725
+ProcessGuid: {c00189fc-1621-6859-7e59-000000006900}
+ProcessId: 313952
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.647
+ProcessGuid: {c00189fc-1621-6859-7d59-000000006900}
+ProcessId: 365356
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.585
+ProcessGuid: {c00189fc-1621-6859-7c59-000000006900}
+ProcessId: 366108
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.522
+ProcessGuid: {c00189fc-1621-6859-7b59-000000006900}
+ProcessId: 365920
+Image: C:\Program Files (x86)\IPinside_LWS\I3GProc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.491
+ProcessGuid: {c00189fc-1621-6859-7a59-000000006900}
+ProcessId: 365916
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.460
+ProcessGuid: {c00189fc-1621-6859-7959-000000006900}
+ProcessId: 365308
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.382
+ProcessGuid: {c00189fc-1621-6859-7859-000000006900}
+ProcessId: 369748
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.350
+ProcessGuid: {c00189fc-1621-6859-7759-000000006900}
+ProcessId: 370088
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.272
+ProcessGuid: {c00189fc-1621-6859-7659-000000006900}
+ProcessId: 369532
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.257
+ProcessGuid: {c00189fc-1621-6859-7559-000000006900}
+ProcessId: 369956
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.194
+ProcessGuid: {c00189fc-1621-6859-7459-000000006900}
+ProcessId: 369192
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.178
+ProcessGuid: {c00189fc-1621-6859-7359-000000006900}
+ProcessId: 369176
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.147
+ProcessGuid: {c00189fc-1621-6859-7259-000000006900}
+ProcessId: 355164
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:53.069
+ProcessGuid: {c00189fc-1621-6859-7159-000000006900}
+ProcessId: 369200
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:52.991
+ProcessGuid: {c00189fc-1620-6859-7059-000000006900}
+ProcessId: 368820
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:52.960
+ProcessGuid: {c00189fc-1620-6859-6f59-000000006900}
+ProcessId: 406296
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:52.850
+ProcessGuid: {c00189fc-1620-6859-6d59-000000006900}
+ProcessId: 369140
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:52.819
+ProcessGuid: {c00189fc-1620-6859-6c59-000000006900}
+ProcessId: 369676
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:52.725
+ProcessGuid: {c00189fc-1620-6859-6b59-000000006900}
+ProcessId: 368700
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:52.647
+ProcessGuid: {c00189fc-1620-6859-6a59-000000006900}
+ProcessId: 359684
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:52.553
+ProcessGuid: {c00189fc-1620-6859-6959-000000006900}
+ProcessId: 369420
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:52.507
+ProcessGuid: {c00189fc-1620-6859-6859-000000006900}
+ProcessId: 369076
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:52.382
+ProcessGuid: {c00189fc-1620-6859-6759-000000006900}
+ProcessId: 368580
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:52.163
+ProcessGuid: {c00189fc-0549-6859-f657-000000006900}
+ProcessId: 315984
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:52.100
+ProcessGuid: {c00189fc-1620-6859-6659-000000006900}
+ProcessId: 368724
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:51.991
+ProcessGuid: {c00189fc-161f-6859-6559-000000006900}
+ProcessId: 368732
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:51.913
+ProcessGuid: {c00189fc-c082-6858-ce4f-000000006900}
+ProcessId: 60596
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:51.850
+ProcessGuid: {c00189fc-161f-6859-6459-000000006900}
+ProcessId: 369436
+Image: C:\Program Files (x86)\INITECH\INISAFE Web EX Client\INISAFECrossWebEXSvc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:51.757
+ProcessGuid: {c00189fc-0558-6859-ff57-000000006900}
+ProcessId: 315836
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:51.553
+ProcessGuid: {c00189fc-161f-6859-6359-000000006900}
+ProcessId: 369260
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:51.132
+ProcessGuid: {c00189fc-161b-6859-5c59-000000006900}
+ProcessId: 364912
+Image: C:\Program Files (x86)\INITECH\INISAFE Web EX Client\INISAFEAdminUtil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:51.132
+ProcessGuid: {c00189fc-161b-6859-5a59-000000006900}
+ProcessId: 368544
+Image: C:\Kings\KOS\KOSinj64.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:51.069
+ProcessGuid: {c00189fc-161e-6859-6259-000000006900}
+ProcessId: 358476
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:51.069
+ProcessGuid: {c00189fc-be96-6858-5e4f-000000006900}
+ProcessId: 58596
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:51.069
+ProcessGuid: {c00189fc-b72c-6858-244d-000000006900}
+ProcessId: 575316
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:50,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:50.960
+ProcessGuid: {c00189fc-b736-6858-434d-000000006900}
+ProcessId: 577900
+Image: C:\Program Files\AhnLab\Safe Transaction\StSess.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:50,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:50.491
+ProcessGuid: {c00189fc-161e-6859-6159-000000006900}
+ProcessId: 368416
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:49.897
+ProcessGuid: {c00189fc-161d-6859-6059-000000006900}
+ProcessId: 368500
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:49.522
+ProcessGuid: {c00189fc-c083-6858-d14f-000000006900}
+ProcessId: 67244
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:49.382
+ProcessGuid: {c00189fc-c083-6858-d04f-000000006900}
+ProcessId: 70252
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:49.382
+ProcessGuid: {c00189fc-054a-6859-f757-000000006900}
+ProcessId: 316288
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:49.350
+ProcessGuid: {c00189fc-161d-6859-5f59-000000006900}
+ProcessId: 368608
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:49.225
+ProcessGuid: {c00189fc-c070-6858-cb4f-000000006900}
+ProcessId: 67408
+Image: C:\Program Files (x86)\Kakao\KakaoTalk\KakaoTalk.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:49.163
+ProcessGuid: {c00189fc-c083-6858-cf4f-000000006900}
+ProcessId: 70264
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:49.116
+ProcessGuid: {c00189fc-054a-6859-f957-000000006900}
+ProcessId: 314808
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:49.053
+ProcessGuid: {c00189fc-054a-6859-f857-000000006900}
+ProcessId: 316252
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:49.038
+ProcessGuid: {c00189fc-e0a7-6858-1355-000000006900}
+ProcessId: 205876
+Image: C:\Windows\System32\MusNotifyIcon.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:48,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:48.850
+ProcessGuid: {c00189fc-161c-6859-5e59-000000006900}
+ProcessId: 368664
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:48,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:48.757
+ProcessGuid: {c00189fc-b7d2-6858-104e-000000006900}
+ProcessId: 11812
+Image: C:\Program Files\Microsoft OneDrive\25.095.0518.0002\Microsoft.SharePoint.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:48,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:48.272
+ProcessGuid: {c00189fc-161c-6859-5d59-000000006900}
+ProcessId: 40928
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:47,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:47.866
+ProcessGuid: {c00189fc-161b-6859-5b59-000000006900}
+ProcessId: 366528
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:47,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:47.085
+ProcessGuid: {c00189fc-161a-6859-5859-000000006900}
+ProcessId: 368336
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.614
+ProcessGuid: {c00189fc-0549-6859-f457-000000006900}
+ProcessId: 314684
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.507
+ProcessGuid: {c00189fc-b74f-6858-794d-000000006900}
+ProcessId: 583116
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.502
+ProcessGuid: {c00189fc-b74f-6858-784d-000000006900}
+ProcessId: 583104
+Image: C:\Windows\System32\cmd.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.490
+ProcessGuid: {c00189fc-c081-6858-cd4f-000000006900}
+ProcessId: 69556
+Image: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\137.0.3296.93\msedgewebview2.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.381
+ProcessGuid: {c00189fc-b74c-6858-6f4d-000000006900}
+ProcessId: 582500
+Image: C:\Users\wah43\AppData\Local\Programs\schedo\스케두.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.316
+ProcessGuid: {c00189fc-b749-6858-684d-000000006900}
+ProcessId: 581120
+Image: C:\Users\wah43\AppData\Local\Programs\schedo\스케두.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.313
+ProcessGuid: {c00189fc-b752-6858-7e4d-000000006900}
+ProcessId: 583456
+Image: C:\Xilinx\xic\tps\win64\jre11.0.11_9\bin\java.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.306
+ProcessGuid: {c00189fc-b748-6858-664d-000000006900}
+ProcessId: 580876
+Image: C:\Users\wah43\AppData\Local\MathWorks\ServiceHost\v2025.5.1.1\bin\win64\MathWorksServiceHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.297
+ProcessGuid: {c00189fc-b75e-6858-8f4d-000000006900}
+ProcessId: 572112
+Image: C:\Users\wah43\AppData\Local\MathWorks\ServiceHost\v2025.5.1.1\bin\win64\MathWorksServiceHost-Monitor.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.264
+ProcessGuid: {c00189fc-b752-6858-7f4d-000000006900}
+ProcessId: 583548
+Image: C:\Program Files (x86)\Hnc\Office 2020\HncUtils\Service\HncUpdateTray.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.102
+ProcessGuid: {c00189fc-b74d-6858-734d-000000006900}
+ProcessId: 582648
+Image: C:\Users\wah43\AppData\Local\Programs\schedo\스케두.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.091
+ProcessGuid: {c00189fc-b74d-6858-714d-000000006900}
+ProcessId: 582588
+Image: C:\Users\wah43\AppData\Local\Programs\schedo\스케두.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.089
+ProcessGuid: {c00189fc-1613-6859-4b59-000000006900}
+ProcessId: 359172
+Image: C:\Windows\System32\SearchProtocolHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.077
+ProcessGuid: {c00189fc-160d-6859-4859-000000006900}
+ProcessId: 359680
+Image: C:\Windows\System32\LocationNotificationWindows.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.074
+ProcessGuid: {c00189fc-112e-6859-e158-000000006900}
+ProcessId: 350088
+Image: C:\Windows\System32\smartscreen.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.070
+ProcessGuid: {c00189fc-b740-6858-4e4d-000000006900}
+ProcessId: 579600
+Image: C:\Program Files\AhnLab\Safe Transaction\Nz32\StSess32.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:46.015
+ProcessGuid: {c00189fc-b72e-6858-364d-000000006900}
+ProcessId: 576472
+Image: C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:45.991
+ProcessGuid: {c00189fc-b72c-6858-2f4d-000000006900}
+ProcessId: 575804
+Image: C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_38cfab2b652e4701\igfxEM.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:45.990
+ProcessGuid: {c00189fc-b730-6858-3b4d-000000006900}
+ProcessId: 576836
+Image: C:\Program Files (x86)\IPinside_LWS\I3GProc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:45.953
+ProcessGuid: {c00189fc-b736-6858-414d-000000006900}
+ProcessId: 577700
+Image: C:\Program Files (x86)\INITECH\INISAFE Web EX Client\INISAFECrossWebEXSvc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:45.938
+ProcessGuid: {c00189fc-bb81-6858-f64e-000000006900}
+ProcessId: 47480
+Image: C:\Windows\System32\CompPkgSrv.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:46,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:45.934
+ProcessGuid: {c00189fc-b72d-6858-314d-000000006900}
+ProcessId: 575976
+Image: C:\Kings\KOS\KOSinj.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:45,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:45.904
+ProcessGuid: {c00189fc-b753-6858-824d-000000006900}
+ProcessId: 583188
+Image: C:\Program Files (x86)\MarkAny\EPSBroker\MaEPSBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:45,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:45.902
+ProcessGuid: {c00189fc-b7d7-6858-194e-000000006900}
+ProcessId: 21144
+Image: C:\Windows\System32\oobe\UserOOBEBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:45,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:45.878
+ProcessGuid: {c00189fc-b746-6858-624d-000000006900}
+ProcessId: 580676
+Image: C:\Windows\System32\SecurityHealthSystray.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:45,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:45.865
+ProcessGuid: {c00189fc-b72c-6858-254d-000000006900}
+ProcessId: 575360
+Image: C:\Program Files (x86)\SoftForum\XecureWeb\AnySign\dll\AnySign4PC.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:45,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:45.854
+ProcessGuid: {c00189fc-b72e-6858-354d-000000006900}
+ProcessId: 576360
+Image: C:\Program Files (x86)\INITECH\INISAFE Web EX Client\INISAFEAdminUtil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:45,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:45.840
+ProcessGuid: {c00189fc-b72d-6858-324d-000000006900}
+ProcessId: 576028
+Image: C:\Kings\KOS\KOSinj64.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:44,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:44.956
+ProcessGuid: {c00189fc-1618-6859-5059-000000006900}
+ProcessId: 367012
+Image: C:\Windows\System32\smss.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:53:43,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:43.098
+ProcessGuid: {c00189fc-f15a-6858-2156-000000006900}
+ProcessId: 250132
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:42.994
+ProcessGuid: {c00189fc-f15a-6858-2056-000000006900}
+ProcessId: 250644
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:42.600
+ProcessGuid: {c00189fc-f15b-6858-2256-000000006900}
+ProcessId: 249896
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:42.585
+ProcessGuid: {c00189fc-fcd7-6858-4257-000000006900}
+ProcessId: 81368
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:42.222
+ProcessGuid: {c00189fc-fcaa-6858-3857-000000006900}
+ProcessId: 281740
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:42.167
+ProcessGuid: {c00189fc-f15b-6858-2556-000000006900}
+ProcessId: 250016
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:42.117
+ProcessGuid: {c00189fc-f15b-6858-2356-000000006900}
+ProcessId: 251020
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:41,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:41.802
+ProcessGuid: {c00189fc-1611-6859-4959-000000006900}
+ProcessId: 367244
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:41,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:41.797
+ProcessGuid: {c00189fc-1611-6859-4a59-000000006900}
+ProcessId: 367216
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:41,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:41.741
+ProcessGuid: {c00189fc-1159-6859-ea58-000000006900}
+ProcessId: 350072
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:39.921
+ProcessGuid: {c00189fc-1236-6859-0c59-000000006900}
+ProcessId: 355324
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:39.899
+ProcessGuid: {c00189fc-1235-6859-0b59-000000006900}
+ProcessId: 348708
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:39.684
+ProcessGuid: {c00189fc-f163-6858-3056-000000006900}
+ProcessId: 251040
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:39.593
+ProcessGuid: {c00189fc-12e3-6859-1859-000000006900}
+ProcessId: 356692
+Image: C:\Windows\System32\mmc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:38,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:38.792
+ProcessGuid: {c00189fc-11b3-6859-f658-000000006900}
+ProcessId: 352756
+Image: C:\Windows\System32\notepad.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:34,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:34.738
+ProcessGuid: {c00189fc-11dc-6859-fd58-000000006900}
+ProcessId: 324056
+Image: C:\Windows\System32\conhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:34,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:34.717
+ProcessGuid: {c00189fc-11db-6859-fc58-000000006900}
+ProcessId: 336776
+Image: C:\Windows\System32\cmd.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:32,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:32.702
+ProcessGuid: {c00189fc-1432-6859-2e59-000000006900}
+ProcessId: 361768
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:53:15,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:53:15.690
+ProcessGuid: {c00189fc-153c-6859-3959-000000006900}
+ProcessId: 306472
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:52:18,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:52:18.484
+ProcessGuid: {c00189fc-156d-6859-4259-000000006900}
+ProcessId: 366160
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:52:16,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:52:16.045
+ProcessGuid: {c00189fc-15b5-6859-4459-000000006900}
+ProcessId: 365024
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\137.0.3296.93\identity_helper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:52:08,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:52:08.513
+ProcessGuid: {c00189fc-153c-6859-3859-000000006900}
+ProcessId: 364548
+Image: C:\Windows\servicing\TrustedInstaller.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:52:08,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:52:08.505
+ProcessGuid: {c00189fc-153d-6859-3b59-000000006900}
+ProcessId: 364456
+Image: C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.5911_none_7dd4fd687cb889e8\TiWorker.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:52:06,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:52:06.055
+ProcessGuid: {c00189fc-135d-6859-2359-000000006900}
+ProcessId: 356208
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:52:04,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:52:04.987
+ProcessGuid: {c00189fc-15b4-6859-4359-000000006900}
+ProcessId: 365220
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\137.0.3296.93\identity_helper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:51:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:51:53.517
+ProcessGuid: {c00189fc-156a-6859-4159-000000006900}
+ProcessId: 366728
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:51:16,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:51:16.627
+ProcessGuid: {c00189fc-153d-6859-3c59-000000006900}
+ProcessId: 360888
+Image: C:\Windows\System32\wbem\WmiPrvSE.exe
+User: NT AUTHORITY\NETWORK SERVICE"
+정보,2025-06-23 오후 5:51:07,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:51:07.169
+ProcessGuid: {c00189fc-153f-6859-4059-000000006900}
+ProcessId: 364960
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:50:38,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:50:38.130
+ProcessGuid: {c00189fc-153e-6859-3f59-000000006900}
+ProcessId: 360904
+Image: C:\Windows\System32\sppsvc.exe
+User: NT AUTHORITY\NETWORK SERVICE"
+정보,2025-06-23 오후 5:50:15,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:50:15.657
+ProcessGuid: {c00189fc-153c-6859-3559-000000006900}
+ProcessId: 364424
+Image: C:\Windows\System32\taskhostw.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:50:09,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:50:09.406
+ProcessGuid: {c00189fc-153c-6859-3759-000000006900}
+ProcessId: 359120
+Image: C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeC2RClient.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:50:08,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:50:08.053
+ProcessGuid: {c00189fc-153c-6859-3659-000000006900}
+ProcessId: 363220
+Image: C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:50:06,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:50:06.527
+ProcessGuid: {c00189fc-153d-6859-3e59-000000006900}
+ProcessId: 360900
+Image: C:\Windows\System32\conhost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:50:06,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:50:06.524
+ProcessGuid: {c00189fc-153d-6859-3d59-000000006900}
+ProcessId: 362432
+Image: C:\Windows\System32\UCPDMgr.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:49:24,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:49:24.629
+ProcessGuid: {c00189fc-1341-6859-1e59-000000006900}
+ProcessId: 349080
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:49:09,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:49:09.671
+ProcessGuid: {c00189fc-14fc-6859-3459-000000006900}
+ProcessId: 363504
+Image: C:\Program Files\Microsoft OneDrive\25.095.0518.0002\FileCoAuth.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:48:43,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:48:43.938
+ProcessGuid: {c00189fc-13bd-6859-2459-000000006900}
+ProcessId: 337916
+Image: C:\Windows\System32\audiodg.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+정보,2025-06-23 오후 5:47:19,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:47:19.114
+ProcessGuid: {c00189fc-143d-6859-3059-000000006900}
+ProcessId: 362516
+Image: C:\Windows\System32\wbem\WmiPrvSE.exe
+User: NT AUTHORITY\NETWORK SERVICE"
+정보,2025-06-23 오후 5:47:18,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:47:18.715
+ProcessGuid: {c00189fc-1441-6859-3359-000000006900}
+ProcessId: 360828
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:46:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:46:53.663
+ProcessGuid: {c00189fc-143e-6859-3159-000000006900}
+ProcessId: 361832
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:46:51,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:46:51.500
+ProcessGuid: {c00189fc-143f-6859-3259-000000006900}
+ProcessId: 362772
+Image: C:\Program Files\Internet Explorer\ielowutil.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:45:52,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:45:52.659
+ProcessGuid: {c00189fc-142f-6859-2a59-000000006900}
+ProcessId: 353064
+Image: C:\Windows\System32\msfeedssync.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:45:48,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:45:48.170
+ProcessGuid: {c00189fc-143b-6859-2f59-000000006900}
+ProcessId: 362508
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:45:40,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:45:40.180
+ProcessGuid: {c00189fc-142f-6859-2b59-000000006900}
+ProcessId: 362152
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:45:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:45:39.458
+ProcessGuid: {c00189fc-1432-6859-2c59-000000006900}
+ProcessId: 362252
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:45:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:45:39.375
+ProcessGuid: {c00189fc-1432-6859-2d59-000000006900}
+ProcessId: 360364
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:45:38,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:45:38.779
+ProcessGuid: {c00189fc-142d-6859-2959-000000006900}
+ProcessId: 361892
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:45:33,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:45:33.636
+ProcessGuid: {c00189fc-142d-6859-2859-000000006900}
+ProcessId: 362056
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:45:33,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:45:33.627
+ProcessGuid: {c00189fc-142d-6859-2759-000000006900}
+ProcessId: 361984
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:45:12,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:45:12.076
+ProcessGuid: {c00189fc-1416-6859-2659-000000006900}
+ProcessId: 361684
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:45:10,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 08:45:10.662
+ProcessGuid: {c00189fc-1416-6859-2659-000000006900}
+ProcessId: 361684
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.19041.3996 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell  -EncodedCommand ZWNobyAiSGFja2VkISIK
+CurrentDirectory: C:\Users\wah43\Downloads\Sysmon\
+User: DESKTOP-GHQF7EL\wah43
+LogonGuid: {c00189fc-b72a-6858-54fc-a71300000000}
+LogonId: 0x13A7FC54
+TerminalSessionId: 32
+IntegrityLevel: High
+Hashes: SHA256=9785001B0DCF755EDDB8AF294A373C0B87B2498660F724E76C4D53F9C217C7A3
+ParentProcessGuid: {c00189fc-11db-6859-fc58-000000006900}
+ParentProcessId: 336776
+ParentImage: C:\Windows\System32\cmd.exe
+ParentCommandLine: ""C:\WINDOWS\system32\cmd.exe"" 
+ParentUser: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:44:19,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:44:19.474
+ProcessGuid: {c00189fc-13db-6859-2559-000000006900}
+ProcessId: 350456
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:44:11,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 08:44:11.280
+ProcessGuid: {c00189fc-13db-6859-2559-000000006900}
+ProcessId: 350456
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.19041.3996 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell  -EncodedCommand SQBFAFgAUABDAEgAIAAiSGFja2VkISAi
+CurrentDirectory: C:\Users\wah43\Downloads\Sysmon\
+User: DESKTOP-GHQF7EL\wah43
+LogonGuid: {c00189fc-b72a-6858-54fc-a71300000000}
+LogonId: 0x13A7FC54
+TerminalSessionId: 32
+IntegrityLevel: High
+Hashes: SHA256=9785001B0DCF755EDDB8AF294A373C0B87B2498660F724E76C4D53F9C217C7A3
+ParentProcessGuid: {c00189fc-11db-6859-fc58-000000006900}
+ParentProcessId: 336776
+ParentImage: C:\Windows\System32\cmd.exe
+ParentCommandLine: ""C:\WINDOWS\system32\cmd.exe"" 
+ParentUser: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:43:42,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:43:42.159
+ProcessGuid: {c00189fc-1338-6859-1d59-000000006900}
+ProcessId: 357000
+Image: C:\Windows\System32\SnippingTool.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:42:43,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:42:43.281
+ProcessGuid: {c00189fc-135a-6859-2059-000000006900}
+ProcessId: 358120
+Image: C:\Windows\System32\RuntimeBroker.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:42:18,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:42:18.808
+ProcessGuid: {c00189fc-1315-6859-1a59-000000006900}
+ProcessId: 357404
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:42:15,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:42:15.877
+ProcessGuid: {c00189fc-135c-6859-2259-000000006900}
+ProcessId: 354888
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\137.0.3296.93\identity_helper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:42:09,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:42:09.877
+ProcessGuid: {c00189fc-11da-6859-fb58-000000006900}
+ProcessId: 353996
+Image: C:\Windows\System32\audiodg.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+정보,2025-06-23 오후 5:42:04,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:42:04.906
+ProcessGuid: {c00189fc-135c-6859-2159-000000006900}
+ProcessId: 347636
+Image: C:\Program Files (x86)\Microsoft\Edge\Application\137.0.3296.93\identity_helper.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:42:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:42:03.244
+ProcessGuid: {c00189fc-135a-6859-1f59-000000006900}
+ProcessId: 357948
+Image: C:\Windows\System32\backgroundTaskHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:41:56,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:41:56.153
+ProcessGuid: {c00189fc-1312-6859-1959-000000006900}
+ProcessId: 349880
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:41:39,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:41:39.222
+ProcessGuid: {c00189fc-1337-6859-1c59-000000006900}
+ProcessId: 356492
+Image: C:\Windows\System32\svchost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:41:31,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:41:31.637
+ProcessGuid: {c00189fc-1336-6859-1b59-000000006900}
+ProcessId: 356432
+Image: C:\Windows\System32\dllhost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:41:29,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:41:29.851
+ProcessGuid: {c00189fc-119b-6859-f158-000000006900}
+ProcessId: 352928
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:41:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:41:02.222
+ProcessGuid: {c00189fc-12dc-6859-1559-000000006900}
+ProcessId: 356116
+Image: C:\Windows\System32\SearchFilterHost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:41:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:41:02.212
+ProcessGuid: {c00189fc-12dc-6859-1459-000000006900}
+ProcessId: 349636
+Image: C:\Windows\System32\SearchProtocolHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:40:03,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:40:03.032
+ProcessGuid: {c00189fc-12e2-6859-1759-000000006900}
+ProcessId: 356760
+Image: C:\Windows\System32\consent.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:40:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:40:02.741
+ProcessGuid: {c00189fc-12e2-6859-1659-000000006900}
+ProcessId: 356848
+Image: C:\Windows\System32\mmc.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:39:57,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:39:57.292
+ProcessGuid: {c00189fc-1118-6859-d858-000000006900}
+ProcessId: 348852
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:39:44,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:39:44.598
+ProcessGuid: {c00189fc-12ce-6859-1359-000000006900}
+ProcessId: 354732
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:39:42,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 08:39:42.773
+ProcessGuid: {c00189fc-12ce-6859-1359-000000006900}
+ProcessId: 354732
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.19041.3996 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell  -Command ""curl http://example.com""
+CurrentDirectory: C:\Users\wah43\Downloads\Sysmon\
+User: DESKTOP-GHQF7EL\wah43
+LogonGuid: {c00189fc-b72a-6858-54fc-a71300000000}
+LogonId: 0x13A7FC54
+TerminalSessionId: 32
+IntegrityLevel: High
+Hashes: SHA256=9785001B0DCF755EDDB8AF294A373C0B87B2498660F724E76C4D53F9C217C7A3
+ParentProcessGuid: {c00189fc-11db-6859-fc58-000000006900}
+ParentProcessId: 336776
+ParentImage: C:\Windows\System32\cmd.exe
+ParentCommandLine: ""C:\WINDOWS\system32\cmd.exe"" 
+ParentUser: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:39:21,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:39:21.811
+ProcessGuid: {c00189fc-12b9-6859-1259-000000006900}
+ProcessId: 355860
+Image: C:\Windows\System32\auditpol.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:39:09,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:39:09.450
+ProcessGuid: {c00189fc-12a4-6859-1159-000000006900}
+ProcessId: 355196
+Image: C:\Program Files\Microsoft OneDrive\25.095.0518.0002\FileCoAuth.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:39:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:39:02.244
+ProcessGuid: {c00189fc-1235-6859-0a59-000000006900}
+ProcessId: 348756
+Image: C:\Windows\System32\SearchFilterHost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:39:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:39:02.237
+ProcessGuid: {c00189fc-1235-6859-0959-000000006900}
+ProcessId: 355088
+Image: C:\Windows\System32\SearchProtocolHost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:38:26,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:38:26.608
+ProcessGuid: {c00189fc-1282-6859-1059-000000006900}
+ProcessId: 355672
+Image: C:\Windows\System32\auditpol.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:37:49,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:37:49.964
+ProcessGuid: {c00189fc-1249-6859-0d59-000000006900}
+ProcessId: 355452
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\LOCAL SERVICE"
+정보,2025-06-23 오후 5:37:40,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:37:40.462
+ProcessGuid: {c00189fc-1254-6859-0f59-000000006900}
+ProcessId: 355256
+Image: C:\Windows\System32\auditpol.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:37:35,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:37:35.062
+ProcessGuid: {c00189fc-1249-6859-0e59-000000006900}
+ProcessId: 355548
+Image: C:\Windows\System32\LocationNotificationWindows.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:37:18,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:37:18.577
+ProcessGuid: {c00189fc-11e9-6859-ff58-000000006900}
+ProcessId: 324460
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:37:10,Microsoft-Windows-Sysmon,1,Process Create (rule: ProcessCreate),"Process Create:
+RuleName: -
+UtcTime: 2025-06-23 08:37:09.823
+ProcessGuid: {c00189fc-1235-6859-0b59-000000006900}
+ProcessId: 348708
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.19041.3996 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+CurrentDirectory: C:\WINDOWS\system32\
+User: DESKTOP-GHQF7EL\wah43
+LogonGuid: {c00189fc-b72a-6858-54fc-a71300000000}
+LogonId: 0x13A7FC54
+TerminalSessionId: 32
+IntegrityLevel: High
+Hashes: SHA256=9785001B0DCF755EDDB8AF294A373C0B87B2498660F724E76C4D53F9C217C7A3
+ParentProcessGuid: {c00189fc-dafa-6858-b154-000000006900}
+ParentProcessId: 186840
+ParentImage: C:\Windows\System32\RuntimeBroker.exe
+ParentCommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+ParentUser: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:37:09,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:37:09.800
+ProcessGuid: {c00189fc-1234-6859-0859-000000006900}
+ProcessId: 355016
+Image: C:\Windows\System32\consent.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:37:05,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:37:05.853
+ProcessGuid: {c00189fc-0fd9-6859-c558-000000006900}
+ProcessId: 345360
+Image: C:\Windows\System32\svchost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:37:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:37:02.456
+ProcessGuid: {c00189fc-11ce-6859-f858-000000006900}
+ProcessId: 353796
+Image: C:\Windows\System32\SearchFilterHost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:37:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:37:02.433
+ProcessGuid: {c00189fc-11ce-6859-f758-000000006900}
+ProcessId: 353800
+Image: C:\Windows\System32\SearchProtocolHost.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:37:02,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:37:02.404
+ProcessGuid: {c00189fc-10bd-6859-d358-000000006900}
+ProcessId: 347984
+Image: C:\Windows\System32\SearchProtocolHost.exe
+User: NT AUTHORITY\SYSTEM"
+정보,2025-06-23 오후 5:36:53,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:36:53.500
+ProcessGuid: {c00189fc-11e6-6859-fe58-000000006900}
+ProcessId: 320396
+Image: C:\Program Files\Google\Chrome\Application\chrome.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:35:56,Microsoft-Windows-Sysmon,5,Process terminated (rule: ProcessTerminate),"Process terminated:
+RuleName: -
+UtcTime: 2025-06-23 08:35:56.672
+ProcessGuid: {c00189fc-11ea-6859-0059-000000006900}
+ProcessId: 320204
+Image: C:\Users\wah43\Downloads\Sysmon\Sysmon64.exe
+User: DESKTOP-GHQF7EL\wah43"
+정보,2025-06-23 오후 5:35:55,Microsoft-Windows-Sysmon,4,Sysmon service state changed,"Sysmon service state changed:
+UtcTime: 2025-06-23 08:35:55.795
+State: Started
+Version: 15.15
+SchemaVersion: 4.90"
+정보,2025-06-23 오후 5:35:55,Microsoft-Windows-Sysmon,16,Sysmon config state changed,"Sysmon config state changed:
+UtcTime: 2025-06-23 08:35:55.408
+Configuration: C:\Users\wah43\Downloads\Sysmon\sysmonconfig.xml
+ConfigurationFileHash: SHA256=98D8D82F63351E6091A730930DFBBBBA850365FCB9BE6007F88F1BCCC518C611"
